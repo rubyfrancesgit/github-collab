@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;500;600;700&family=Roboto:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -8,7 +9,7 @@
 
 body{
     font: 65.5%;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif, 'Allura';
 }
 
 .hero{
@@ -45,7 +46,7 @@ nav{
     position: relative;
 }
 
-a{
+nav a{
     font-size: 1.5rem;
     font-variant: small-caps;
 }
@@ -89,6 +90,17 @@ a{
     align-items: center;
     justify-content: center;
 }
+.card-face a{
+    align-items: center;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 10px;
+    display: inline-block;
+    font-size: 1rem;
+    color: #333;
+
+}
 
 .card {
     position: relative;
@@ -121,16 +133,38 @@ a{
     text-align: center;
     color: darkgray;
     border-radius: 10px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 600;
 }
 
-.back p {
+.back aside {
     margin: 0;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+span{
+    font-family: 'Allura';
+    color: #333;
+    font-variant: normal;
+    
+}
+h3{
+    align-items: center;
+    justify-content: center;
+    min-width: 100%;
+    min-height: 100%;
+    position: absolute;
+    top: 150px;
+    display: inline-block;
+
+}
+section{
+    width: 100vw;
+    height: auto;
+    background-color: #333;
 }
 
 .flipcard {
