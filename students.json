@@ -1,0 +1,30 @@
+
+
+{"students":[  
+
+    {
+    "name": "Toby",
+     "degree":"Web and Graphic",
+     "about": "nerd",
+     "img": 23,
+     "projectNames": ["project1", "project2", "project3"],
+
+     "projects": [
+         {
+            "projectName": "firstProject",
+            "projectIMG": "",
+            "projectDes": "LOREn"
+         },
+         {
+            "projectName": "secondProject",
+            "projectIMG": "",
+            "projectDes": "LOREn"
+         },
+         {
+            "projectName": "thirdProject",
+            "projectIMG": "",
+            "projectDes": "LOREn"
+         }
+     ]
+    }
+]} 
