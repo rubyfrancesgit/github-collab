@@ -9,6 +9,7 @@
 body{
     font: 65.5%;
     font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
 }
 
 .hero{
@@ -146,6 +147,15 @@ input:checked + .card {
         display: flex;
         justify-content: space-around;
     }
+}
+
+
+/* Lewis Footer */
+
+.footer{
+    height: 30vh;
+    width: 100vw;
+    background: black;
 }
 
 
