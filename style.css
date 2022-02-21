@@ -65,6 +65,7 @@ body{
 }
 .banner-text h1{
     font-size: 5rem;
+    font-family:'Comfortaa';
     text-transform: uppercase;
     font-weight: bold;
     margin-bottom:5px;
