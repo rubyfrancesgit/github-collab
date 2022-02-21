@@ -12,6 +12,19 @@ body{
     font-family: 'Roboto', sans-serif, 'Allura';
 }
 
+.navbar-brand{
+    width: 200px;
+    height: 100%;
+    display: flex;
+    position: relative;
+    top: 0;
+}
+
+.navbar-brand img{
+    width: 200px;
+    min-height: 100%;
+}
+
 .hero{
     width:100vw;
     height:100%;
