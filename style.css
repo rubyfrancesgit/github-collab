@@ -55,6 +55,47 @@ a{
     position: absolute;
 }
 
+
+
+
+.modal-dialog{
+
+}
+
+.modal-content{
+    width: 60vw;
+}
+.modal-body{
+    display: flex;
+    width: 60vw;
+}
+
+.modal-left{
+    height: 100%;
+    width: 50%;
+    padding-right: 1rem;
+}
+.modal-img{
+    object-fit: cover;
+}
+.modal-words{
+    font-family: 'Roboto', sans-serif;
+    font-variant: small-caps;
+}
+
+.modal-img{
+    height: 60vh;
+    width: 25vw;
+}
+
+.modal-right{
+    padding-left: 1rem;
+}
+
+.modal-studytxt{
+    padding-top: 1rem;
+}
+
 .scene {
     width: 100vw;
     max-width: 100%;
