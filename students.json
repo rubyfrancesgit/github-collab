@@ -1,0 +1,79 @@
+
+
+{"students":[  
+
+    {
+     "name": "Toby",
+     "degree": "Graphic design",
+     "img": "./img/toby.jpg",
+
+     "projects": [
+         {
+            "projectName": "vehicle illustration",
+            "projectIMG": "./img/vehicle.png",
+            "projectDes": "Artwork I created for a personal up-skilling project in illustration using Adobe Illustrator. The majority of these explore dot shading as a way to give them a 3D touch."
+         },
+         {
+            "projectName": "ngāti kuia branding",
+            "projectIMG": "./img/ngatiKuia.png",
+            "projectDes": "A brand refresh for my Iwi Ngati Kuia, who are located in Nelson. I’ve been involved in multiple projects including the design of their Hauora Research Publication that looks into the perspectives and experiences of the Iwi."
+         },
+         {
+            "projectName": "ambrewlance",
+            "projectIMG": "./img/ambrewlance.png",
+            "projectDes": "A free project for Black Dog Brew Co and the Wellington Free Ambulance during my time at DUSK. It involved creating a poster for BlackDog's new brew for charity called Ambrewlance."
+         }
+     ]
+    },
+
+    {
+        "name": "Hayley",
+         "degree": "Marketing",
+         "img": "./img/hayley.png",
+    
+         "projects": [
+             {
+                "projectName": "Thyme and Co",
+                "projectIMG": "./img/thyme.png",
+                "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+             },
+             {
+                "projectName": "End Game Solutions",
+                "projectIMG": "./img/egs.png",
+                "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+             },
+             {
+                "projectName": "Liberty Terminal",
+                "projectIMG": "./img/lib.png",
+                "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+             }
+         ]
+        },
+
+
+        {
+            "name": "Daniel",
+             "degree":"Web and UX Designer",
+             "img": "./img/daniel.png",
+        
+             "projects": [
+                 {
+                    "projectName": "Diet Bowl",
+                    "projectIMG": "./img/dietBowl.png",
+                    "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                 },
+                 {
+                    "projectName": "Parrot Nurery",
+                    "projectIMG": "./img/parrot.png",
+                    "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                 },
+                 {
+                    "projectName": "Zen You",
+                    "projectIMG": "./img/zenYou.png",
+                    "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                 }
+             ]
+            }
+
+
+]} 
