@@ -50,7 +50,6 @@
          ]
         },
 
-
         {
             "name": "Daniel",
              "degree":"Web and UX Designer",
@@ -73,7 +72,78 @@
                     "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
                  }
              ]
-            }
+            },
 
+            {
+               "name": "Sarah",
+               "degree": "Health and Nutrition",
+               "img": "./img/sarah.png",
+          
+               "projects": [
+                   {
+                      "projectName": "Buzz Fit Nutrition",
+                      "projectIMG": "./img/buzz.jpeg",
+                      "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                   },
+                   {
+                      "projectName": "Out The Box Nutrition",
+                      "projectIMG": "./img/box.jpg",
+                      "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                   },
+                   {
+                      "projectName": "Nivana Greens",
+                      "projectIMG": "./img/green.jpg",
+                      "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                   }
+               ]
+              },
+
+              {
+               "name": "Chris",
+               "degree": "Product Design",
+               "img": "./img/chris.jpg",
+          
+               "projects": [
+                   {
+                      "projectName": "IDEO Packaging",
+                      "projectIMG": "./img/ideo.jpg",
+                      "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                   },
+                   {
+                      "projectName": "Bic Stationary",
+                      "projectIMG": "./img/bic.jpg",
+                      "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                   },
+                   {
+                      "projectName": "Starbucks Product Design",
+                      "projectIMG": "./img/bucks.jpg",
+                      "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                   }
+               ]
+              },
+
+              {
+               "name": "Katie",
+               "degree": "Event Organiser",
+               "img": "./img/katie.jpg",
+          
+               "projects": [
+                   {
+                      "projectName": "AUT Open Day",
+                      "projectIMG": "./img/aut.jpg",
+                      "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                   },
+                   {
+                      "projectName": "Round the Bays Auckland",
+                      "projectIMG": "./img/rtb.jpg",
+                      "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                   },
+                   {
+                      "projectName": "Auckland Cricket Organiser",
+                      "projectIMG": "./img/crick.jpg",
+                      "projectDes": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, velit. Dolorum pariatur sunt unde veritatis facilis minima dolor vero nulla ullam eaque aperiam, autem tempore accusamus quo? Excepturi, rerum dicta?"
+                   }
+               ]
+              }
 
 ]} 
